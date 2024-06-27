@@ -3,7 +3,7 @@ name: node template project
 on: 
   push:
     branches:
-    -main
+    - main
 
 jobs:
   hello-world:
